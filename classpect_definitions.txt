@@ -161,7 +161,7 @@ Heir of Space
 Heir: Passive change; inspiring and inviting alteration
 Space: Distance, velocity and position; substance, physicality; traveling and navigation
 
-An Heir of Space is someone who inspires change in the physical world around them. An Heir's ability is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Space will indirectly change the substance of the world around them. 
+An Heir of Space is someone who inspires change in the physical world around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Space will indirectly change the substance of the world around them. 
 
 Space tends to be a creative aspect; an Heir of Space would be able to inspire change in the physical world, but would also be able to invite others to create. 
 
@@ -174,6 +174,180 @@ Heir of Time
 Heir: Passive change; inspiring and inviting alteration
 Time: Passive flow, patience; causality; uncertainty, inevitability; destruction, mortality, rebirth
 
+An Heir of Time is someone who inspires change in the passive flows around them: Time. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Time will indirectly change the world through the flows of time, and the inevitable cycle of death and rebirth. 
+
+Time tends to be a passively destructive aspect; an Heir of Time would be able to inspire change in the flow of time itself, but would also be able to invite others to change their paths to the inevitable, and the flows of cause-and-effect that take them to their final outcome. 
+
+An Heir of Time might also find themselves changing as the Time around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Time will find their Time-based attributes, such as patience and uncertainty, changing due to their actions.
+
+--------
+Heir of Life
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Life: Raw energy; growth and change; natural chaos
+
+An Heir of Life is someone who inspires change in the natural energy around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Life will indirectly change the world through the growth and natural change of the world, and by bringing about an organic sort of chaos that leads to prosperity.
+
+Life tend to be a very disordered and free aspect; an Heir of Life would be able to inspire change in raw life energy itself, but would also be able to invite others to change their personal growth, or the growth of the world around them, much like pruning a plant.
+
+An Heir of Life might also find themselves changing as the Life around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Life will find their Life-based attributes, such as raw energy and ability to thrive in nature, changing due to their actions.
+
+--------
+Heir of Doom
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Doom: Consumption and decay; sacrifice; cause and effect, systems and patterns
+
+An Heir of Doom is someone who inspires change in the pattern of decay and consumption around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Doom will indirectly change the systems and patterns around them, and the sacrifices people make to achieve their goals.
+
+Doom tends to be a rather restricted and destructive aspect; an Heir of Doom would be able to inspire change in decay itself, but would also be able to invite others to change their patterns of sacrifice, or even the very system that wrought that sacrifice in the first place.
+
+An Heir of Doom might also find themselves changing as the Doom around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Doom will find their Doom-based attributes, such as their sacrifices and personal patterns, changing due to their actions.
+
+--------
+Heir of Breath
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Breath: Motivation, direction, freedom, and quest; inspiration and detachment
+
+An Heir of Breath is someone who inspires change in the motivations and freedoms around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Breath will indirectly change the direction of those around them, and give others the ability to be less tied-down and attached to the world and people around them.
+
+Breath is an aspect that emphasizes freedom, but also the direction and effort to utilize that freedom; an Heir of Breath would be able to inspire change in freedom itself, but would also be able to invite others to change their direction and inspire them to detach from physical and mental bonds.
+
+An Heir of Breath might also find themselves changing as the Breath around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Breath will find their Breath-based attributes, such as their personal detachment and direction, changing due to their actions.
+
+--------
+Heir of Blood
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Blood: Bonds and loyalty; societal restraint; friendship, romanticism, relationships; earthly ties
+
+An Heir of Blood is someone who inspires change in the bonds and loyalties of those around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Blood will indirectly change the relationships and alliances of those around them, and give others the inspiration to form strong ties and allegiances.
+
+Blood is an aspect that emphasizes being bound, but also the respect and loyalty necessary for such a bond; an Heir of Blood would be able to inspire change in Blood itself, but would also be able to invite others to change their relationships and earthly ties based on where their allegiances truly lie.
+
+An Heir of Blood might also find themselves changing as the Blood around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Blood will find their Blood-based attributes, such as their relationships and loyalties, changing due to their actions.
+
+--------
+Heir of Heart
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Heart: Soul; core of being, inner feelings; sense of self; force of will
+
+An Heir of Heart is someone who inspires change in the souls and emotions of those around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Heart will indirectly change the inner feelings of those around them, and give others the inspiration to form a strong sense of self.
+
+Heart is an aspect that deals with not only feelings, but also how these feelings are tied to the core of someone's very being; an Heir of Heart would be able to inspire change in emotions, but would also be able to invite others to change their very selves based on these emotions.
+
+An Heir of Heart might also find themselves changing as the Heart around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Heart will find their Heart-based attributes, such as their sense of self, inner strength of will, and core feelings, changing due to their actions.
+
+--------
+Heir of Mind
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Mind: Thoughts and logic; actions, independent of emotion; perception; choice and decision
+
+An Heir of Mind is someone who inspires change in the logic and thoughts of those around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Mind will indirectly change the choices and actions of those around them, and give others the inspiration to put aside their emotions to make logical decisions.
+
+Mind is an aspect that focuses on a person's actions and logic rather than their inner feelings; an Heir of Mind would be able to inspire logical thinking, but would also be able to invite others to change their actions and perception based on this independence from an emotional core.
+
+An Heir of Mind might also find themselves changing as the Mind around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Mind will find their Mind-based attributes, such as their thoughts, actions, and perception, changing due to their actions.
+
+--------
+Heir of Void
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Void: Obfuscation, shadows, and secrets; misfortune and death; irrelevance, disorder; lack of certainty
+
+An Heir of Void is someone who inspires change in the shadows, secrets, and uncertainty around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Void will indirectly change the world through obfuscation and misfortune. 
+
+Void is an aspect of obscurity and circumstantial irrelevance, but also of the misfortune brought on by these; an Heir of Void would be able to inspire change in the secrets around them, but would also be able to invite others to change their misfortunes and lack of certainty. 
+
+An Heir of Void might also find themselves changing as the Void around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Void will find their Void-based attributes, such as their personal secrets and obscurity, changing due to their actions.
+
+--------
+Heir of Light
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Light: Illumination, revelation, clarity; fortune, fate, and luck; exposition; circumstantial importance
+
+An Heir of Light is someone who inspires change in the revelations and fortune around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Light will indirectly change the world through exposition and alteration of fate.
+
+Light is an aspect of illumination, importance, and clarity of information, but also luck and fate; an Heir of Light would be able to inspire change in the exposition around them, but would also be able to invite others to change their fortune and personal understanding and clarity. 
+
+An Heir of Light might also find themselves changing as the Light around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Light will find their Light-based attributes, such as their very fortune and circumstantial importance, changing due to their actions.
+
+--------
+Heir of Hope
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Hope: Optimism; widened perceptions, ability to see options; faith in something you don't understand
+
+An Heir of Hope is someone who inspires change in the optimism and faith around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Hope will indirectly change the world through widened perceptions, and alteration of belief. 
+
+Hope is an aspect of belief, not just in themselves and others, but in the possibilities the future holds and consideration of every option; an Heir of Hope would be able to inspire change in the faith of those around them, but would also be able to invite others to change their beliefs as well as their ability to see the potential for hope.
+
+An Heir of Hope might also find themselves changing as the Hope around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Hope will find their Hope-based attributes, such as their optimism and faith, changing due to their actions.
+
+--------
+Heir of Rage
+--------
+
+Heir: Passive change; inspiring and inviting alteration
+Rage: Subjugation and domination of will; narrowed perceptions; limiting options; determination and force of will
+
+An Heir of Rage is someone who inspires change in the anger, fear, and domination of will around them. An Heir is based in their ability to passively bring about alterations to a situation by inviting in their aspect; thus, an Heir of Rage will indirectly change the world through narrowed perceptions, limitation of options, and subjugation of will.
+
+Rage is an aspect of limitations, not just toward the emotions of anger and fear, but in terms of limiting options; an Heir of Rage would be able to inspire change in the force of will of those around them, but would also be able to invite others to change their perceptions, narrowing and focusing them to a fine point.
+
+An Heir of Rage might also find themselves changing as the Rage around them is changed. An Heir's duty is to encourage positive change, but they cannot help but change themselves as a result. An Heir of Rage will find their Rage-based attributes, such as their determination, ability to narrow options, and sheer force of will changing with their actions.
+
+--------
+Witch of Space
+--------
+
+Witch: Active change; altering the world and aspect
+Space: Distance, velocity and position; substance, physicality; traveling and navigation
+
+A Witch of Space is someone who alters the substance of the physical world around them. A Witch's abilities are based on changing the world around them, and a Witch of Space does this in a more literal and physical sense. A fully-realized Witch of Space is a master of directly changing physical substance to achieve their goals.
+
+Space is an aspect that tends toward the creative; a Witch of Space can focus on physical creation, and the alteration and refinement of their creations' physical properties. They will also tend to view their changes through the lens of spatial properties, such as distance, velocity, and position.
+
+Witches are not hesitant to bring about direct and immediate change to take control of a situation. Witches of Space, therefore, are willing to alter Space, the very substance of the world, to complete their work.
+
+--------
+Witch of Time
+--------
+
+Witch: Active change; altering the world and aspect
+Time: Passive flow, patience; causality; uncertainty, inevitability; destruction, mortality, rebirth
+
+A Witch of Time is someone who alters the very flow of time. A Witch's abilities are based on changing the world around them, and a Witch of Time does this by altering the passive flow of cause-and-effect that is time. A fully-realized Witch of Time is a master of directly changing causality to achieve their goals.
+
+Time is an aspect that tends toward a cycle of destruction and rebirth; a Witch of Time can break this cycle, as well as performing smaller alterations. They will also tend to view their changes through the lens of temporal properties, such as causality, inevitability, and patience.
+
+Witches are not hesitant to bring about direct and immediate change to take control of a situation. Witches of Time, therefore, are willing to alter Time, the passive flows of the universe, to complete their work.
+
+--------
+Witch of Life
+--------
+
+Witch: Active change; altering the world and aspect
+Life: Raw energy; growth and change; natural chaos
+
+A Witch of Life is someone who alters the very flow of Life. A Witch's abilities are based on changing the world around them, and a Witch of Life does this by altering the raw life energy and natural chaos that is Life. A fully-realized Witch of Life is a master of directly changing this energy of growth and change to achieve their goals.
+
+Life is an aspect that tends toward creative chaos; a Witch of Life will bring about changes in this natural "order". They will also tend to view their changes through the lens of energetic properties, such as the energy needed to complete a task or bring about growth.
+
+Witches are not hesitant to bring about direct and immediate change to take control of a situation. Witches of Life, therefore, are willing to alter Life, natural growth and change, to complete their work.
 
 
 
