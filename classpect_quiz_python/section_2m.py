@@ -2,14 +2,14 @@
 Section 2 of the Classpect quiz.
 '''
 
-import random
+import random  # @UnusedImport
 from random import shuffle
 
 import classpect_quiz
-import section_1m
-import section_3m
-import section_4m
-import dictionaries
+import section_1m  # @UnusedImport
+import section_3m  # @UnusedImport
+import section_4m  # @UnusedImport
+import dictionaries  # @UnusedImport
 
 def main():
     '''

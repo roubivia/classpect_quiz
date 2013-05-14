@@ -11,7 +11,7 @@
 
 words = {'mage':['understand', 'discover', 'control'],
              'heir':['change', 'change with', 'inspire', 'symbolize'],
-             'witch':['change', 'shape', 'invite change into'],
+             'witch':['change', 'shape', 'invite change into', 'manipulate'],
              'seer':['understand', 'see the flow of'],
              'prince':['destroy', 'dismantle', 'am fueled by'],
              'bard':['subtly destroy', 'weaken', 'find weaknesses in'],
@@ -22,7 +22,7 @@ words = {'mage':['understand', 'discover', 'control'],
              'knight':['exploit', 'weaponize', 'utilize'],
              'page':['slowly exploit', 'recruit', 'test', 'arm others'],
              
-             'space':['space', 'creativity', 'the physical world', 'positioning'],
+             'space':['space', 'creativity', 'physicality', 'positioning'],
              'time':['time', 'patience', 'inevitability', 'mortality'],
              'life':['life', 'energy', 'growth', 'chaos'],
              'doom':['doom', 'sacrifice', 'decay', 'rules and order', 'systems and patterns'],
@@ -42,18 +42,18 @@ words = {'mage':['understand', 'discover', 'control'],
 #---------------------------------------------------------------------
 
 class_descriptions = {
-            'mage':"Mage: Active understanding; using knowledge to take control.",
-             'heir':"Heir: Passive change; inspiring and inviting alteration.",
-             'witch':"Witch: Active change; altering the world and aspect.",
-             'seer':"Seer: Passive understanding; knowing and seeing the situation.",
-             'prince':"Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect.",
-             'bard':"Bard: Passive destruction; weakening and demolishing through small flaws.",
-             'thief':"Thief: Active allocation; dominates control of aspect.",
-             'rogue':"Rogue: Passive allocation; subtle rearrangement through aspect.",
-             'maid':"Maid: Active creation; a font of aspect, uses aspect to create and repair.",
-             'sylph':"Sylph: Passive creation; heals and repairs aspect, and through aspect.",
-             'knight':"Knight: Active exploitation; weaponizes aspect, often protectors.",
-             'page':"Page: Passive exploitation; inspires others to use aspect, starts off slowly."}
+            'mage':"Mage: Active understanding; using knowledge to take control",
+             'heir':"Heir: Passive change; inspiring and inviting alteration",
+             'witch':"Witch: Active change; altering the world and aspect",
+             'seer':"Seer: Passive understanding; knowing and seeing the situation",
+             'prince':"Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect",
+             'bard':"Bard: Passive destruction; weakening and demolishing through small flaws",
+             'thief':"Thief: Active allocation; dominates control of aspect",
+             'rogue':"Rogue: Passive allocation; subtle rearrangement through aspect",
+             'maid':"Maid: Active creation; a font of aspect, uses aspect to create and repair",
+             'sylph':"Sylph: Passive creation; heals and repairs aspect, and through aspect",
+             'knight':"Knight: Active exploitation; weaponizes aspect, often protectors",
+             'page':"Page: Passive exploitation; inspires others to use aspect, starts off slowly"}
 
 
 #---------------------------------------------------------------------
@@ -63,12 +63,12 @@ class_descriptions = {
 #---------------------------------------------------------------------
 
 aspect_descriptions = {
-            'space':"Space: Distance, velocity and position; substance, physicality; traveling",
-             'time':"Time: Passive flow, patience; uncertainty, inevitability; destruction, mortality, rebirth",
+            'space':"Space: Distance, velocity and position; substance, physicality; traveling and navigation",
+             'time':"Time: Passive flow, patience; causality; uncertainty, inevitability; destruction, mortality, rebirth",
              'life':"Life: Raw energy; growth and change; natural chaos",
              'doom':"Doom: Consumption and decay; sacrifice; cause and effect, systems and patterns",
              'breath':"Breath: Motivation, direction, freedom, and quest; inspiration and detachment",
-             'blood':"Blood: Bond and loyalty; societal restraint; friendship, romanticism, relationships; earthly ties",
+             'blood':"Blood: Bonds and loyalty; societal restraint; friendship, romanticism, relationships; earthly ties",
              'heart':"Heart: Soul; core of being, inner feelings; sense of self; force of will",
              'mind':"Mind: Thoughts and logic; actions, independent of emotion; perception; choice and decision",
              'void':"Void: Obfuscation, shadows, and secrets; misfortune and death; irrelevance, disorder; lack of certainty",
@@ -85,7 +85,7 @@ aspect_descriptions = {
 #---------------------------------------------------------------------
 
 classpects_long = {
-          'mage of space':"Active understanding of the physical world. \n Mages in general tend to be an information class. Mages don't just understand their aspect they understand through their aspect. In this way, a mage of space would understand the world in physical or concrete terms. Space players tend to be creative, and a mage of space would not only have an understanding of the world in physical terms, but an understanding of how their creation can shape the physical world around them.",  # mage
+          'mage of space':"\n Mages in general tend to be an information class. Mages don't just understand their aspect they understand through their aspect. In this way, a mage of space would understand the world in physical or concrete terms. Space players tend to be creative, and a mage of space would not only have an understanding of the world in physical terms, but an understanding of how their creation can shape the physical world around them.",  # mage
           'mage of time':'mage of time',
           'mage of life':'mage of life',
           'mage of doom':'mage of doom',

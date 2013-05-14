@@ -6,9 +6,9 @@ import random
 from random import shuffle
 
 import classpect_quiz
-import section_1m
-import section_2m
-import section_4m
+import section_1m  # @UnusedImport
+import section_2m  # @UnusedImport
+import section_4m  # @UnusedImport
 import dictionaries
 
 def main():
