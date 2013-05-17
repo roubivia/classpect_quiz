@@ -1,14 +1,11 @@
 Hit the "zip" button on github to get ahold of this quiz.
 
-To start the entire quiz as a whole, you want to open the 
+In the zip, there is an executable file:
 
-    classpect_quiz_python 
+    classpect_quiz.exe
 
-folder, and run
+Run this to run the quiz.
 
-    classpect_quiz.py
-
-file. If it doesn't work because you don't have python,
-then get python. If it doesn't work for some other reason,
+If it doesn't work for some reason,
 email me (cesiumtea@gmail.com) or find me on tumblr
 (roubivia) to let me know about it.
