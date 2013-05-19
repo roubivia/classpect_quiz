@@ -622,9 +622,137 @@ Rage is an aspect that tends toward narrowing down options, though a Seer will o
 
 Seers of Rage tend to view the world around them through the lens of limitation and domination. To them, Rage-based attributes are the most important things to know about something, so they make sure they know it well.
 
+--------
+Prince of Space
+--------
 
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Space: Distance, velocity and position; substance, physicality; traveling and navigation
 
+A Prince of Space is someone who destroys and is fueled by the physical world. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Space will destroy physical objects, but will also bring destruction through physicality and substance, and use Space itself as a source of power.
 
+Space is an aspect that tends toward the creative; while this may seem to conflict with a Prince's destructive nature, it really means that the Prince of Space can destroy through creation of physical objects. The influence of Space also means that the Prince will tend to see everything in terms of physical attributes, such as size and position, and tend to ignore the abstract.
+
+--------
+Prince of Time
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Time: Passive flow, patience; causality; uncertainty, inevitability; destruction, mortality, rebirth
+
+A Prince of Time is someone who destroys and is fueled by passive flows, such as time. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Time will destroy uncertainty and causality, but will also bring destruction through cause-and-effect, and use Time itself as a source of power.
+
+Time is an aspect that tends toward the destructive; while this may seem to augment Prince's destructive nature, Time also features change and the cycle of rebirth, destroying so that new things can take shape. The influence of Time also means that the Prince will tend to see everything in terms of temporal attributes, such as inevitability and a sense of cause-and-effect.
+
+--------
+Prince of Life
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Life: Raw energy; growth and change; natural chaos
+
+A Prince of Life is someone who destroys and is fueled by raw life energy, as well as chaotic growth and change. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Life will destroy natural energy, but will also bring destruction through growth, change, and natural chaos, and use Life itself as a source of power.
+
+Life is an aspect that tends toward the creative; while this may seem to conflict with the Prince's destructive nature, it really means that the Prince destroys through the natural growth and change that is essential to Life. The influence of Life also means that the Prince will tend to see everything in terms of natural or energetic attributes.
+
+--------
+Prince of Doom
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Doom: Consumption and decay; sacrifice; cause and effect, systems and patterns
+
+A Prince of Doom is someone who destroys and is fueled by sacrifice, as well as the systems and patterns that make this sacrifice necessary. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Doom will destroy the orderly patterns that bring about Doom, but will also bring destruction through consumption and decay, and use Doom itself as a source of power.
+
+Doom is an aspect that tends toward the destructive; while this may seem to augment the Prince's destructive nature, it really means that the Prince destroys through the sacrifice and order that is essential to Doom. The influence of Doom also means that the Prince will tend to see everything in terms of structure and degeneration.
+
+--------
+Prince of Breath
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Breath: Motivation, direction, freedom, and quest; inspiration and detachment
+
+A Prince of Breath is someone who destroys and is fueled by freedom, as well as the direction and motivation needed to make the most of freedom. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Breath will destroy liberty and inspiration, but will also bring destruction through detachment, and use Breath itself as a source of power.
+
+Breath is an aspect that tends toward inspiration and quest, as well as freedom and direction; the Prince's destructive nature can destroy these, destroy through these, or simply destroy limitations to allow for more freedom. The influence of Breath also means that the Prince will tend to see everything in terms of varying levels of freedom and detachment from the world.
+
+--------
+Prince of Blood
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Blood: Bonds and loyalty; societal restraint; friendship, romanticism, relationships; earthly ties
+
+A Prince of Blood is someone who destroys and is fueled by bonds, loyalties, and societal restraints. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Blood will destroy alliances, but will also bring destruction through relationships of all sorts, and use Blood itself as a source of power.
+
+Blood is an aspect that tends toward limitation and restraint, and uses these to forge bonds and allegiances; the Prince's destructive nature can destroy these, destroy through these, or simply destroy the obstacles standing in the way of bringing about a new relationship or alliance. The influence of Blood also means that the Prince will tend to see everything in terms of loyalties and the ties that bind.
+
+--------
+Prince of Heart
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Heart: Soul; core of being, inner feelings; sense of self; force of will
+
+A Prince of Heart is someone who destroys and is fueled by inner emotions and a sense of self. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Heart will destroy the core of a person, but will also bring destruction through emotion, and use Heart itself as a source of power.
+
+Heart is an aspect that tends toward ignoring a person's actions in favor of their inner being, or soul; the Prince's destructive nature can destroy these, destroy through these, or simply destroy a person's sense of self, forcing them to confront their inner feelings. The influence of Heart also means that the Prince will tend to see everything in terms of what is inside a person rather than what the person does.
+
+--------
+Prince of Mind
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Mind: Thoughts and logic; actions, independent of emotion; perception; choice and decision
+
+A Prince of Mind is someone who destroys and is fueled by logic and action. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Mind will destroy someone's logic, but will also bring destruction through their actions independent of emotion, and use Mind itself as a source of power.
+
+Mind is an aspect that tends toward ignoring a person's feelings in favor of their choices and decisions; the Prince's destructive nature can destroy these, destroy through these, or simply destroy a person's faulty logic. The influence of Mind also means that the Prince will tend to see everything in terms of perception of action, and the rationalization behind a choice, rather than the emotional decision.
+
+--------
+Prince of Void
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Void: Obfuscation, shadows, and secrets; misfortune and death; irrelevance, disorder; lack of certainty
+
+A Prince of Void is someone who destroys and is fueled by secrets, shadows, and misfortune. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Void will destroy someone's secrets, but will also bring destruction through their own secretive nature, and use Void itself as a source of power.
+
+Void is an aspect that tends toward obfuscation and situational irrelevance, and the bad luck brought on by these; the Prince's destructive nature can destroy these, destroy through these, or simply destroy information itself to bring about greater secrets. The influence of Void also means that the Prince will tend to see everything in terms of obfuscation, situational irrelevance, and uncertainty.
+
+--------
+Prince of Light
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Light: Illumination, revelation, clarity; fortune, fate, and luck; exposition; circumstantial importance
+
+A Prince of Light is someone who destroys and is fueled by revelation, clarity, and fortune. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Light will destroy circumstantial importance of information, but will also bring destruction through exposition and luck, and use Light itself as a source of power.
+
+Light is an aspect that tends toward illumination of all sorts, and the luck brought on by it; the Prince's destructive nature can destroy these, destroy through these, or simply destroy anything standing in the way of clarity. The influence of Light also means that the Prince will tend to see everything in terms of revelations, fate, and the importance of information.
+
+--------
+Prince of Hope
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Hope: Optimism; widened perceptions, ability to see options; faith in something you don't understand
+
+A Prince of Hope is someone who destroys and is fueled by optimism and faith, and the broadening of horizons needed to believe in possibilities for the future. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Hope will destroy optimism and belief, but will also bring destruction through widened perceptions and faith, and use Hope itself as a source of power.
+
+Hope is an aspect that tends toward finding available options; the Prince's destructive nature can destroy these, destroy through these, or simply destroy anything that seems to be limiting the possibilities the future holds. The influence of Hope also means that the Prince will tend to see everything in terms of hope, belief, and the power of wishes.
+
+--------
+Prince of Rage
+--------
+
+Prince: Active destruction; fueled by aspect to the point of destruction of and through aspect
+Rage: Subjugation and domination of will; narrowed perceptions; limiting options; determination and force of will
+
+A Prince of Rage is someone who destroys and is fueled by anger, fear, and domination of will. As a destroyer class, the Prince has a strange relationship with their aspect; the Prince of Rage will destroy force of will, but will also bring destruction through narrowed perceptions, anger, and fear, and use Rage itself as a source of power.
+
+Rage is an aspect that tends toward elimination of options and limitation; the Prince's destructive nature can destroy these, destroy through these, or simply destroy possibility using anger and fear as a motivational force. The influence of Rage also means that the Prince will tend to see everything in terms of limitation, subjugation, and force.
 
 
 
